@@ -1,7 +1,6 @@
 # Aggressive Ad, Pop-up & Anti-Adblock Shield
 
-A standalone userscript that blocks intrusive banners, suppresses click-jacking pop-ups, defuses anti-adblock overlay walls, and removes search engine AI summaries. It operates completely independently from video playback logic to prevent media engine stutters.
-
+A standalone userscript that blocks intrusive banners, suppresses click-jacking pop-ups, defuses anti-adblock overlay walls, and removes search engine AI summaries. 
 ---
 
 ## Features
