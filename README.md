@@ -31,23 +31,6 @@ flowchart TD
     CheckTrap -->|YES| Drop["Prevent Default & Remove Node"]
     CheckTrap -->|NO| Pass["Pass to Native Event Loop"]
 ```
-
----
-
-## Installation
-
-### Safari (iOS / iPadOS)
-
-1. Open the **Userscripts** directory in the **Files** app.
-2. Save the script as `AggressiveAdPopupShield.user.js`.
-3. Open Safari, click the extension icon, and ensure the script is enabled.
-
-### Firefox / Chrome (Desktop & Linux)
-
-1. Open **Violentmonkey** or **Tampermonkey**.
-2. Click **Create a new script** (`+`).
-3. Paste the code from `AggressiveAdPopupShield.user.js` and save.
-
 ---
 
 ## Configuration & Metadata
